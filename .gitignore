@@ -1,0 +1,4 @@
+# The readable guide - the gate is pointless if this is public. index.html is the ENCRYPTED gate.
+build/index.plain.html
+*.bak
+.DS_Store
